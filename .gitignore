@@ -1,6 +1,6 @@
 src/
 node_modules/
 build/css/app.css
-packaje.json
-packaje-lock.json
+package.json
+package-lock.json
 gulpfile.js
